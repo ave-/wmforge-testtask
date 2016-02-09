@@ -1,0 +1,15 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: AVE
+ * Date: 08.02.2016
+ * Time: 16:55
+ */
+return [
+   'host' => 'localhost',
+   'port' => '3306',
+   'user' => 'admin',
+   'password' => '123',
+   'db' => 'test',
+   'table_prefix' => 'table_prefix_',
+];

@@ -1,0 +1,25 @@
+.default
+{
+    background: rgb(28, 184, 65) none repeat scroll 0 0;
+    color: white;
+}
+.another
+{
+    background: rgb(66, 184, 221) none repeat scroll 0 0;
+    color: white;
+}
+.form-error
+{
+    color: #ff0000;
+    width: 100%;
+}
+fieldset
+{
+    margin: 20px 0;
+}
+label
+{
+    display: inline-block;
+    text-align: right;
+    width: 45%;
+}
