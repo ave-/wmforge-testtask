@@ -1,6 +1,6 @@
 <div class="window">
    <div class="wrapper">
-      <form action="" method="post" onsubmit="verify()" enctype="multipart/form-data">
+      <form action="" method="post" enctype="multipart/form-data">
          <div class="header center-children">
             <input type="hidden" name="__translator_lang" value="[@__translator_lang]" id="__translator_lang">
             <span id="tr_title" class="hcenter">Register</span>
